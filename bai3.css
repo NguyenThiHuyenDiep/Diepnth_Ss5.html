@@ -1,0 +1,33 @@
+<div class="bg">
+            <h1 class="h1">ADMIN USER TABLE</h1>
+            <table style="width: 100%; border-collapse: collapse; border-width: thick;">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>USERNAME</th>
+                        <th>EMAIL</th>
+                        <th>ROLE</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>admin01</td>
+                        <td>admin01@example.com</td>
+                        <td>Administrator</td>
+                    </tr>
+                    <tr id="id02">
+                        <td >2</td>
+                        <td>user123</td>
+                        <td>user123@example.com</td>
+                        <td>User</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>moderator56</td>
+                        <td>moderator56@example.com</td>
+                        <td>Moderator</td>
+                    </tr>
+                </tbody>
+            </table>
+    </div>
